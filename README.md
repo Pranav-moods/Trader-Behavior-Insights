@@ -22,11 +22,15 @@ This project analyzes how trader performance (PnL, trade behavior) is influenced
 |------|-------------|
 | `trader_behaviour.ipynb` | Main analysis notebook |
 | `fear_greed_index.csv` | Sentiment dataset |
-| `historical_data.csv` | trading dataset | link -https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+| `historical_data.csv` | Not included in this repo (see below) | 
 | `README.md` | Project overview |
 
 ---
+## 📁 Datasets
 
+`historical_data.csv`= https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
+---
 ## 📌 Key Insights
 
 - Highest average PnL observed during **Extreme Greed**
