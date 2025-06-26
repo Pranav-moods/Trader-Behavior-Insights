@@ -22,7 +22,7 @@ This project analyzes how trader performance (PnL, trade behavior) is influenced
 |------|-------------|
 | `trader_behaviour.ipynb` | Main analysis notebook |
 | `fear_greed_index.csv` | Sentiment dataset |
-| `historical_data.csv` | trading dataset |
+| `historical_data.csv` | trading dataset | link -https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 | `README.md` | Project overview |
 
 ---
