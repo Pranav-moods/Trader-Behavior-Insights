@@ -40,6 +40,5 @@ This project analyzes how trader performance (PnL, trade behavior) is influenced
 1. Clone this repo or unzip the project folder  
 2. Open `trader_behaviour.ipynb` in Jupyter  
 3. Run all cells to reproduce the analysis  
-4. Optional: install requirements using `pip install -r requirements.txt`
 
 ---
